@@ -1,2 +1,3 @@
 This is the project that got me really interested in machine learning. In this notebook, I implemented a basic neural network using NUMPY. The goal is to determine which number is displayed in a low res image. The data is sourced from the MNIST number dataset of hundreds of handwritten numbers.
+
 At first, the model starts very innacurate, with precision values under 10%. However, after even a few iterations, the accuracy begins to rapidly rise, arriving to a total of around 85%~. When evaluating some sample results, we can see that the model correctly predicts the number displayed a majority of times, showing that the model has learned from the data. This is the essence of machine learning.
